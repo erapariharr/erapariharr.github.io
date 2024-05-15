@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    {{ content_for :head }}
+  </head>
+  <body>
+    <div class="sidebar">
+      <h2 class="sidebar-title">{{ site.name }}</h2>
+      <img src="{{ '/assets/images/IMG_4069.png' | relative_url }}" alt="Profile Image" class="profile">
+      <div class="social-links">
+        <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" style="color:WhiteSmoke;" target="_blank" font-size:8pt>LinkedIn</a> |
+        <a href="mailto:{{ site.email }} " style="color:WhiteSmoke;">Email</a> |
+        <a href="https://github.com/{{ site.github_username }}" style="color:WhiteSmoke;" target="_blank" font-size:8pt>GitHub</a> |
+        <a href="https://huggingface.co/{{ site.huggingface_username }}" style="color:WhiteSmoke;" target="_blank" font-size:8pt>Hugging Face</a> |
+        <a href="https://towardsdatascience.com/@{{ site.towardsdatascience_username }}" style="color:WhiteSmoke;" target="_blank" font-size:8pt>TowardsDataScience</a> |
+        <a href="https://medium.com/@{{ site.medium_username }}" style="color:WhiteSmoke;" target="_blank" font-size:8pt>Medium</a>
+      </div>
+      <ul class="nav-links">
+        {% for link in site.nav_links %}
+          {% if link.sub_links %}
+            <li>{{ link.name }}
+            </li>
+          {% else %}
+            <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>      
