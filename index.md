@@ -2,12 +2,13 @@
 layout: default
 title: Vanshika Sharma
 ---
-# Machine Learning Engineer
+# Data Scientist
 
 Turning Adversity into Triumph with Positivity and Perseverance!
 
-Dynamic ML Engineer with 5 years of experience in deploying and optimizing machine learning models, specializing in NLP. Proficient in using advanced frameworks like Large Language Models, with a strong software development and data science background. Master’s in Computer Science, recognized for problem-solving, creativity, and collaborative mindset, delivering pragmatic solutions in fast-paced environments.
+Data Scientist with 2 years of experience in deploying and optimizing machine learning models, specializing in NLP. Proficient in using advanced frameworks like Large Language Models, with a strong software development and data science background. Currently pursing a Master’s in Data Science at the University of Michigan (Ann Arbor), recognized for problem-solving, creativity, and collaborative mindset, delivering pragmatic solutions in fast-paced environments.
 
+<!---
 ### My Latest Work:
 
 #### Multi-document Agentic RAG with LlamaIndex, GPT-3.5 Turbo, and Streamlit: 
@@ -20,9 +21,10 @@ Enhanced the RAG pipeline using advanced retrieval techniques like sentence wind
   
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
-- Retrieval optimization techniques, evaluation metrics, cloud deployment
+- Retrieval optimization techniques, evaluation metrics, cloud deployment 
+-->
 
-
+<!---
 ### Latest Blogs:
 - Quantization methods 
 - Finetuning Large Laguage Models for domain specific use-cases
@@ -30,4 +32,5 @@ Enhanced the RAG pipeline using advanced retrieval techniques like sentence wind
 - Vector Databases for building LLM Applications
 - Fundamental Concepts to get started with Large Language Models
 - Vector Databases: from Embeddings to Applications
-- Knowledge Graphs for RAG
+- Knowledge Graphs for RAG  
+-->
