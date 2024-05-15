@@ -1,0 +1,51 @@
+title: "Vanshika Sharma"
+description: "Data Scientist specializing in NLP and Generative AI"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Vanshika-sh.github.io" # the base hostname & protocol for your site
+
+# GitHub settings
+github_username: Vanshika-sh
+
+# Theme settings
+theme: minima
+
+# Site settings
+name: "Vanshika Sharma"
+email: vanshika.sh3143@gmail.com
+phone: "+1 862-433-9846"
+linkedin_username: vanshika-sharma-30112020
+github_username: Vanshika-sh
+twitter_username: your_twitter_username # if applicable
+google_analytics: UA-XXXXXXXX-X # your Google Analytics tracking ID
+
+# Social links
+social_links:
+  - name: "LinkedIn"
+    url: "https://www.linkedin.com/in/vanshika-sharma-30112020/"
+  - name: "Email"
+    url: "mailto:vanshika.sh3143@gmail.com"
+  - name: "GitHub"
+    url: "https://github.com/Vanshika-sh"
+  - name: "TowardsDataScience"
+    url: "https://vanshika-sh31.medium.com/"
+  - name: "Medium"
+    url: "https://vanshika-sh31.medium.com/"
+
+# Navigation links
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "About"
+    url: "/about"
+  - name: "My Journey"
+    url: "/myjourney"
+  - name: "Projects"
+    url: "/projects"
+  - name: "Certifications"
+    url: "/certifications"
+  - name: "Blog"
+    url: "/blog"
+  - name: "Course Notes"
+    url: "/coursenotes"
+  - name: "Contact"
+    url: "/contact"
