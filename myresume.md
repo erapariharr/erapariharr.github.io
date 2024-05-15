@@ -1,3 +1,3 @@
-# My Journey
+# My Resume
 
 Coming soon
