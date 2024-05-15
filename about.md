@@ -1,3 +1,4 @@
+<!---
 ---
 layout: default
 title: About
@@ -43,3 +44,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vanshika-sharm
 <iframe width="560" height="315" src="https://www.youtube.com/embed/example1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/example2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+-->
