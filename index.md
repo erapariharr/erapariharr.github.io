@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Vanshika Sharma
+title: Era Parihar
 ---
 # Data Scientist
 
