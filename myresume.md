@@ -1,4 +1,4 @@
-# My Resume
+<!---# My Resume -->
 
 I am a Data Scientist with a strong background in computer science and a passion for machine learning and data analysis. Here, you will find information about my education, skills, work experience, and projects.
 
