@@ -32,9 +32,9 @@ social_links:
 nav_links:
   - name: "Home"
     url: "/"
-  - name: "About"
+<!---  - name: "About"
     url: "/about"
-<!---  - name: "My Journey"
+  - name: "My Journey"
     url: "/myjourney"  -->   
   - name: "Resume"
     url: "/myresume" 
