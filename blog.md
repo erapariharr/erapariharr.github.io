@@ -9,6 +9,7 @@ In this blog, I will explore topics related to large language models, covering f
 
 ---
 
+<!--- 
 ### Upcoming Blogs:
 - Quantization methods 
 - Finetuning Large Laguage Models for domain specific use-cases
@@ -19,4 +20,5 @@ In this blog, I will explore topics related to large language models, covering f
 - Knowledge Graphs for RAG
 
 Stay tuned for in-depth articles and discussions on these topics!
+-->
 
