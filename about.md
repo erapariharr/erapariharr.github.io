@@ -8,20 +8,15 @@ title: About
 ### Programming: 
 Python, PyTorch, TensorFlow, Keras, PySpark, SQL
 ### Technologies: 
-Amazon Sagemaker, Azure Databricks, Azure Data Factory, NLP, Database Systems, Large Language/Transformer Models
+ Natural Language Processing, Database Systems, Large Language/Transformer Models
 
 ## Work Experience
-### *Machine Learning Engineer, Nagarro Inc.* (Jan 2023 - Present)
-- Devised and executed LLM pipelines using RAG and Prompt Engineering.
 
-### *Research Assistant (Machine Learning), SUNY Stony Brook University* (May 2022 - Sept 2023)
-- Generated Lung CT Images based on conditions using multi-modal Probabilistic Diffusion Models.
 
 ## Education
-### Masters in Computer Science 
-Stony Brook University (Aug 2021 - May 2023)
+### 
 ### Bachelor’s in Engineering, Computer Science
-Birla Institute of Technology and Science Pilani (Aug 2015 - Jun 2019)
+Birla Institute of Technology and Science Pilani (Aug 2016 - Sept 2020)
 
 ## Projects
 - **Lung CT Image Generation**: Generated accurate Lung CT Images integrating Denoising Probabilistic Diffusion Models and GPT models.
