@@ -2,28 +2,33 @@
 body {
   display: flex;
   flex-direction: row;
+  min-height: 100vh; /* Ensure the body takes at least full viewport height */
   background-color: #1a1a1a; /* Dark grey background */
   color: #e0e0e0; /* Light grey text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
+  margin: 0;
 }
 
 .sidebar {
-  width: 250px;
+  width: 300px; /* Slightly wider sidebar */
   padding: 20px;
   background: linear-gradient(135deg, #3a3a3a, #575757); /* Gradient from medium grey to dark grey */
   color: #ffffff; /* White text in sidebar */
   text-align: center; /* Center align the content in sidebar */
+  position: fixed; /* Fixed sidebar */
+  height: 100vh; /* Full height */
+  overflow-y: auto; /* Scroll if content overflows */
 }
 
 .sidebar-title {
-  font-size: 1.8em;
+  font-size: 2em;
   margin-bottom: 20px;
   font-weight: 600; /* Semi-bold weight for sidebar title */
   color: #ffffff;
 }
 
 .social-links {
-  margin: 15px 0;
+  margin: 20px 0;
 }
 
 .social-links a {
@@ -40,9 +45,11 @@ body {
 
 .content {
   flex: 1;
-  padding: 30px;
+  padding: 40px 60px; /* More padding for content area */
+  margin-left: 300px; /* Offset to the right by the width of the sidebar */
   background-color: #2a2a2a; /* Slightly lighter grey background */
   color: #e0e0e0; /* Light grey text */
+  overflow: auto; /* Scroll if content overflows */
 }
 
 .main-title {
@@ -72,6 +79,7 @@ h1, h2, h3, h4, h5, h6 {
   list-style-type: none;
   padding: 0;
   text-align: left; /* Align nav links to the left */
+  margin-top: 20px;
 }
 
 .nav-links li {
@@ -98,6 +106,7 @@ form {
   background: #3a3a3a; /* Slightly lighter grey for form background */
   padding: 20px;
   border-radius: 8px; /* Slightly larger border radius for smoother corners */
+  margin-top: 30px;
 }
 
 form label, form input, form textarea {
