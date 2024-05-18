@@ -2,15 +2,15 @@
 body {
   display: flex;
   flex-direction: row;
-  background-color: #000000; /* Black background */
-  color: #d3d3d3; /* Light grey text */
+  background-color: #004d00; /* Dark green background */
+  color: #e6ffe6; /* Light green text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
 .sidebar {
   width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #333333, #4a4a4a); /* Gradient from dark grey to darker grey */
+  background: linear-gradient(135deg, #006600, #009900); /* Gradient from dark green to medium green */
   color: #ffffff; /* White text in sidebar */
   text-align: center; /* Center align the content in sidebar */
 }
@@ -39,15 +39,15 @@ body {
 .content {
   flex: 1;
   padding: 20px;
-  background-color: #000000; /* Black background */
-  color: #d3d3d3; /* Light grey text */
+  background-color: #004d00; /* Dark green background */
+  color: #e6ffe6; /* Light green text */
 }
 
 .main-title {
   font-size: 2em;
   margin-bottom: 20px;
   font-weight: 500; /* Medium weight for main title */
-  color: #f5f5f5 !important; /* Lightest grey for main title */
+  color: #ccffcc !important; /* Lightest green for main title */
 }
 
 img.profile {
@@ -61,7 +61,7 @@ img.profile {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #f5f5f5 !important; /* Lightest grey headings */
+  color: #ccffcc !important; /* Lightest green headings */
   font-weight: bold; /* Bold headings */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-links a {
   text-decoration: none;
-  color: #a9a9a9; /* Dark grey link color */
+  color: #b3ffb3; /* Light green link color */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 form {
-  background: #333333;
+  background: #006600;
   padding: 20px;
   border-radius: 5px;
 }
@@ -106,19 +106,19 @@ form label, form input, form textarea {
 form input, form textarea {
   width: 100%;
   padding: 10px;
-  border: 1px solid #555555;
-  background: #222222;
+  border: 1px solid #009900;
+  background: #004d00;
   color: #ffffff;
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
 form input[type="submit"] {
-  background: #4a4a4a;
+  background: #009900;
   border: none;
   cursor: pointer;
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
 form input[type="submit"]:hover {
-  background: #6a6a6a;
+  background: #00cc00;
 }
