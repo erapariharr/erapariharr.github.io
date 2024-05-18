@@ -32,18 +32,14 @@ social_links:
 nav_links:
   - name: "Home"
     url: "/"
-<!---  - name: "About"
+ - name: "About" <!---include recent work-->
     url: "/about"
   - name: "My Journey"
-    url: "/myjourney"  -->   
+    url: "/myjourney"    
   - name: "Resume"
     url: "/myresume" 
   - name: "Projects"
     url: "/projects"
-<!---  - name: "Certifications"
-    url: "/certifications"
-  - name: "Blog"
-    url: "/blog"  -->
   - name: "Course Notes"
     url: "/coursenotes"
   - name: "Contact"
