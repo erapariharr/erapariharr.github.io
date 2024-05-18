@@ -1,3 +1,6 @@
+My Portfolio Link: erapariharr.github.io
+
+<!---
 # Era Parihar's Portfolio
 
 Welcome to my portfolio! I am a Data Scientist with a strong background in computer science and a passion for machine learning and data analysis. Here, you will find information about my education, skills, work experience, and projects.
@@ -71,3 +74,4 @@ Relevant Coursework: Databases and SQL, Neural Networks, Artificial Intelligence
 - [LinkedIn](https://www.linkedin.com/in/era-parihar-125a58183/)
 - [GitHub](https://github.com/erapariharr)
 
+-->
