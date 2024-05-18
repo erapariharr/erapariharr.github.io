@@ -1,4 +1,4 @@
-My Portfolio Link: erapariharr.github.io
+My Portfolio Link: https://erapariharr.github.io/
 
 <!---
 # Era Parihar's Portfolio
