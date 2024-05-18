@@ -2,66 +2,68 @@
 body {
   display: flex;
   flex-direction: row;
-  background-color: #004d00; /* Dark green background */
-  color: #e6ffe6; /* Light green text */
+  background-color: #1a1a1a; /* Dark grey background */
+  color: #e0e0e0; /* Light grey text */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
 .sidebar {
   width: 250px;
   padding: 20px;
-  background: linear-gradient(135deg, #006600, #009900); /* Gradient from dark green to medium green */
+  background: linear-gradient(135deg, #3a3a3a, #575757); /* Gradient from medium grey to dark grey */
   color: #ffffff; /* White text in sidebar */
   text-align: center; /* Center align the content in sidebar */
 }
 
 .sidebar-title {
-  font-size: 1.5em;
-  margin-bottom: 10px;
-  font-weight: 500; /* Medium weight for sidebar title */
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  font-weight: 600; /* Semi-bold weight for sidebar title */
   color: #ffffff;
 }
 
 .social-links {
-  margin: 10px 0;
+  margin: 15px 0;
 }
 
 .social-links a {
   color: #ffffff; /* White color for social links */
   text-decoration: none;
-  margin: 0 5px;
+  margin: 0 8px;
+  transition: color 0.3s ease;
 }
 
 .social-links a:hover {
+  color: #00bcd4; /* Cyan color on hover */
   text-decoration: underline;
 }
 
 .content {
   flex: 1;
-  padding: 20px;
-  background-color: #004d00; /* Dark green background */
-  color: #e6ffe6; /* Light green text */
+  padding: 30px;
+  background-color: #2a2a2a; /* Slightly lighter grey background */
+  color: #e0e0e0; /* Light grey text */
 }
 
 .main-title {
-  font-size: 2em;
-  margin-bottom: 20px;
-  font-weight: 500; /* Medium weight for main title */
-  color: #ccffcc !important; /* Lightest green for main title */
+  font-size: 2.5em;
+  margin-bottom: 25px;
+  font-weight: 600; /* Semi-bold weight for main title */
+  color: #f0f0f0 !important; /* Lightest grey for main title */
 }
 
 img.profile {
-  max-width: 100%;
+  max-width: 150px; /* Set a max width for the profile image */
   height: auto;
   border-radius: 50%; /* This makes the image round */
-  margin-bottom: 10px;
+  margin-bottom: 15px;
   display: block; /* Ensures the image is displayed as a block element */
   margin-left: auto;
   margin-right: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #ccffcc !important; /* Lightest green headings */
+  color: #f0f0f0 !important; /* Lightest grey headings */
   font-weight: bold; /* Bold headings */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
@@ -73,16 +75,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-links li {
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 .nav-links a {
   text-decoration: none;
-  color: #b3ffb3; /* Light green link color */
+  color: #b0b0b0; /* Medium grey link color */
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
+  transition: color 0.3s ease;
 }
 
 .nav-links a:hover {
+  color: #00bcd4; /* Cyan color on hover */
   text-decoration: underline;
 }
 
@@ -91,9 +95,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 form {
-  background: #006600;
+  background: #3a3a3a; /* Slightly lighter grey for form background */
   padding: 20px;
-  border-radius: 5px;
+  border-radius: 8px; /* Slightly larger border radius for smoother corners */
 }
 
 form label, form input, form textarea {
@@ -105,20 +109,24 @@ form label, form input, form textarea {
 
 form input, form textarea {
   width: 100%;
-  padding: 10px;
-  border: 1px solid #009900;
-  background: #004d00;
+  padding: 12px; /* Increased padding for better spacing */
+  border: 1px solid #555555;
+  background: #2a2a2a; /* Slightly lighter grey background for inputs */
   color: #ffffff;
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
 }
 
 form input[type="submit"] {
-  background: #009900;
+  background: #00bcd4; /* Cyan background for submit button */
   border: none;
   cursor: pointer;
+  color: #ffffff;
   font-family: 'Roboto', sans-serif; /* Use Roboto font */
+  padding: 12px 20px; /* Padding for better spacing */
+  border-radius: 5px; /* Border radius for smoother corners */
+  transition: background 0.3s ease;
 }
 
 form input[type="submit"]:hover {
-  background: #00cc00;
+  background: #0097a7; /* Darker cyan on hover */
 }
