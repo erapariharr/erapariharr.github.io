@@ -11,12 +11,12 @@ theme: minima
 
 # Site settings
 name: "Era Parihar"
-email: erap@umich.edu & eraparihar@gmail.com
+email: "erap@umich.edu, eraparihar@gmail.com"
 phone: "+1 734-412-9886"
-linkedin_username: era-parihar-125a58183
-github_username: erapariharr
-twitter_username: your_twitter_username # if applicable
-google_analytics: UA-XXXXXXXX-X # your Google Analytics tracking ID
+linkedin_username: "era-parihar-125a58183"
+github_username: "erapariharr"
+twitter_username: "your_twitter_username" # if applicable
+google_analytics: "UA-XXXXXXXX-X" # your Google Analytics tracking ID
 
 # Social links
 social_links:
@@ -27,13 +27,12 @@ social_links:
   - name: "GitHub"
     url: "https://github.com/erapariharr"
 
-    
 # Navigation links
 nav_links:
   - name: "Home"
     url: "/"
-  - name: "About" <!--- include recent work -->
-    url: "/about"
+  - name: "About"
+    url: "/about" 
   - name: "My Journey"
     url: "/myjourney"    
   - name: "Resume"
@@ -43,4 +42,4 @@ nav_links:
   - name: "Course Notes"
     url: "/coursenotes"
   - name: "Contact"
-    url: "/contact"  
+    url: "/contact"
