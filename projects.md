@@ -5,6 +5,47 @@ title: Projects
 ## Projects
 In this space, I will be sharing insights and detailed processes of various projects I have worked on, along with my learnings from each.
 
+### Building Agentic RAG with LlamaIndex, deployed with Streamlit
+
+### Building Multimodal Search and RAG 
+
+### Quantization Fundamentals with Hugging Face
+
+### Quantization in Depth
+
+### Introduction to On-Device AI
+
+### Prompt Engineering for Vision Models
+
+### Preprocessing Unstructured Data for LLM Applications
+
+### Knowledge Graphs for RAG
+
+### Serverless LLM apps with Amazon Bedrock
+
+### Building Applications with Vector Databases
+
+### LLMOps
+
+### Automated Testing for LLMOps
+
+### Advanced Retrieval for AI with Chroma 
+
+### Building and Evaluating Advanced RAG Applications
+
+### Understanding and Applying Text Embeddings
+
+### Vector Databases: from Embeddings to Applications
+
+### Using Diffusion Models for generating images
+
+### Large Language Models with Semantic Search
+
+### Finetuning Large Language Models
+
+
+
+<!---
 ### Multi-document Agentic RAG with LLama Index, GPT-3.5 Turbo, deployed with Streamlit
 
 - Developed an agent using GPT-3.5 Turbo model capable of answering complex questions based on documents.
@@ -41,3 +82,5 @@ Description of other project 1.
 Description of other project 2.
 ![Project Image 2](path/to/project-image2.jpg)
 [Watch Project Video](https://www.youtube.com/watch?v=example)
+
+-->
