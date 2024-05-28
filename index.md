@@ -12,7 +12,7 @@ With a passion for transforming complex data into actionable insights, Era Parih
 
 ### My Latest Work:
 
-# Building and Evaluating Advanced RAG Applications
+#### Building and Evaluating Advanced RAG Applications
 Enhanced Retrieval Techniques-
 
 Sentence-Window Retrieval: Improved the relevance and precision of context retrieval.
