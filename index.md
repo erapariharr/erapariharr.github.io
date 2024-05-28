@@ -12,21 +12,42 @@ With a passion for transforming complex data into actionable insights, Era Parih
 
 ### My Latest Work:
 
-#### project name 
-Brief description
+# Building and Evaluating Advanced RAG Applications
+Enhanced Retrieval Techniques-
+
+Sentence-Window Retrieval: Improved the relevance and precision of context retrieval.
+Auto-Merging Retrieval: Combined multiple documents for better information accuracy.
+
+Evaluation Best Practices-
+
+Component-Wise Evaluation: Assessed individual parts of the RAG pipeline.
+Key Metrics: Evaluated faithfulness, answer relevancy, context recall, precision, relevancy, and entity recall.
+
+RAG Triad Evaluation-
+
+Focused on Context Relevance, Groundedness, and Answer Relevance to ensure high-quality responses.
+
+User-Friendly Interface-
+
+Streamlit App: Developed an interactive app for RAG applications.
+Visualization Tools: Included trace logs and dependency graphs for better understanding.
+
+Deployment-
+
+Tested the app locally and deployed it on Streamlit Sharing
  
 
 #### project name 
 Brief description
 
 ### 
-  
+
+  <!---
 ### Refined Skills on:
 - Agent development, document analysis, Streamlit integration, visualizing reasoning processes.
 - Retrieval optimization techniques, evaluation metrics, cloud deployment 
--->
 
-<!---
+
 ### Latest Blogs:
 - 
 - 
@@ -35,4 +56,4 @@ Brief description
 - 
 - 
 - 
-
+-->
