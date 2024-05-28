@@ -5,6 +5,7 @@ title: Projects
 ## Projects
 In this space, I will be sharing insights and detailed processes of various projects I have worked on, along with my learnings from each.
 
+<!---
 Week1: May 28th to june 5th: RAG
 ### 1. Building and Evaluating Advanced RAG Applications, deployed with Streamlit
 ### 2. how diffusion models work, Prompt Engineering for Vision Models
@@ -40,7 +41,7 @@ Week 3: LLM: June 14th to June 30th
 ### 11. Prompt Engineering with Llama 2 & 3
 ### 12. Open Source Models with Hugging Face
 
-
+-->
 
 
 <!---
