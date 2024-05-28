@@ -5,43 +5,63 @@ title: Course Notes
 
 ## Course Notes 
 
-### Building Agentic RAG with LlamaIndex, deployed with Streamlit
+# Building and Evaluating Advanced RAG Applications
+Enhanced Retrieval Techniques:
 
-### Building Multimodal Search and RAG 
+Sentence-Window Retrieval: Improved the relevance and precision of context retrieval.
+Auto-Merging Retrieval: Combined multiple documents for better information accuracy.
+Evaluation Best Practices:
 
-### Quantization Fundamentals with Hugging Face
+Component-Wise Evaluation: Assessed individual parts of the RAG pipeline.
+Key Metrics: Evaluated faithfulness, answer relevancy, context recall, precision, relevancy, and entity recall.
+RAG Triad Evaluation:
 
-### Quantization in Depth
+Focused on Context Relevance, Groundedness, and Answer Relevance to ensure high-quality responses.
+User-Friendly Interface:
 
-### Introduction to On-Device AI
+Streamlit App: Developed an interactive app for RAG applications.
+Visualization Tools: Included trace logs and dependency graphs for better understanding.
+Deployment:
 
-### Prompt Engineering for Vision Models
+Tested the app locally and deployed it on Streamlit Sharing
 
-### Preprocessing Unstructured Data for LLM Applications
+<!---
+Week1: May 28th to june 5th: RAG
+### 1. Building and Evaluating Advanced RAG Applications, deployed with Streamlit
+### 2. how diffusion models work, Prompt Engineering for Vision Models
+### Advanced Retrieval for AI with Chroma
+### 3. Building Applications with Vector Databases
+### 4. Knowledge Graphs for RAG
+### 5. javascript RAG Web Apps with LlamaIndex
+### 6. Preprocessing Unstructured Data for LLM Applications
+### 7. Building Agentic RAG with LlamaIndex, deployed with Streamlit
+### 8. Building Multimodal Search and RAG
 
-### Knowledge Graphs for RAG
+Week2: June 6th to june 14th: 
+Understanding and Applying Text Embeddings
+Vector Databases: from Embeddings to Applications
+Quantization Fundamentals with Hugging Face
+Quantization in Depth
+Getting Started With Mistral
 
-### Serverless LLM apps with Amazon Bedrock
+Multi AI Agent Systems with crewAI
+Introduction to On-Device AI
 
-### Building Applications with Vector Databases
+Week 3: LLM: June 14th to June 30th
+### 1. LangChain: Chat with Your Data
+### 2. Building Generative AI Applications with Gradio
+### 3. Evaluating and Debugging Generative AI Models Using Weights and Biases
+### 4. Large Language Models with Semantic Search
+### 5. Finetuning Large Language Models
+### 6. Functions, Tools and Agents with LangChain
+### 7. Build LLM Apps with LangChain.js
+### 8. LLMOps
+### 9. Automated Testing for LLMOps
+### 10. Serverless LLM apps with Amazon Bedrock
+### 11. Prompt Engineering with Llama 2 & 3
+### 12. Open Source Models with Hugging Face
 
-### LLMOps
-
-### Automated Testing for LLMOps
-
-### Advanced Retrieval for AI with Chroma 
-
-### Building and Evaluating Advanced RAG Applications
-
-### Understanding and Applying Text Embeddings
-
-### Vector Databases: from Embeddings to Applications
-
-### Using Diffusion Models for generating images
-
-### Large Language Models with Semantic Search
-
-### Finetuning Large Language Models
+-->
 
 <!---
 ### Generative AI with Large Language Models - DeepLearning.ai
