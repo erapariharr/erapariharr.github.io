@@ -5,6 +5,9 @@ title: Projects
 ## Projects
 In this space, I will be sharing insights and detailed processes of various projects I have worked on, along with my learnings from each.
 
+### Building Basic and Advanced RAG Applications with LlamaIndex, LLama3 and and Evaluating using RAGA and Trulens
+
+
 <!---
 Week1: May 28th to june 5th: RAG
 ### 1. Building and Evaluating Advanced RAG Applications, deployed with Streamlit
