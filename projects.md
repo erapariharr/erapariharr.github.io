@@ -5,43 +5,41 @@ title: Projects
 ## Projects
 In this space, I will be sharing insights and detailed processes of various projects I have worked on, along with my learnings from each.
 
-### Building Agentic RAG with LlamaIndex, deployed with Streamlit
+Week1: May 28th to june 5th: RAG
+### 1. Building and Evaluating Advanced RAG Applications, deployed with Streamlit
+### 2. how diffusion models work, Prompt Engineering for Vision Models
+### Advanced Retrieval for AI with Chroma
+### 3. Building Applications with Vector Databases
+### 4. Knowledge Graphs for RAG
+### 5. javascript RAG Web Apps with LlamaIndex
+### 6. Preprocessing Unstructured Data for LLM Applications
+### 7. Building Agentic RAG with LlamaIndex, deployed with Streamlit
+### 8. Building Multimodal Search and RAG
 
-### Building Multimodal Search and RAG 
+Week2: June 6th to june 14th: 
+Understanding and Applying Text Embeddings
+Vector Databases: from Embeddings to Applications
+Quantization Fundamentals with Hugging Face
+Quantization in Depth
+Getting Started With Mistral
 
-### Quantization Fundamentals with Hugging Face
+Multi AI Agent Systems with crewAI
+Introduction to On-Device AI
 
-### Quantization in Depth
+Week 3: LLM: June 14th to June 30th
+### 1. LangChain: Chat with Your Data
+### 2. Building Generative AI Applications with Gradio
+### 3. Evaluating and Debugging Generative AI Models Using Weights and Biases
+### 4. Large Language Models with Semantic Search
+### 5. Finetuning Large Language Models
+### 6. Functions, Tools and Agents with LangChain
+### 7. Build LLM Apps with LangChain.js
+### 8. LLMOps
+### 9. Automated Testing for LLMOps
+### 10. Serverless LLM apps with Amazon Bedrock
+### 11. Prompt Engineering with Llama 2 & 3
+### 12. Open Source Models with Hugging Face
 
-### Introduction to On-Device AI
-
-### Prompt Engineering for Vision Models
-
-### Preprocessing Unstructured Data for LLM Applications
-
-### Knowledge Graphs for RAG
-
-### Serverless LLM apps with Amazon Bedrock
-
-### Building Applications with Vector Databases
-
-### LLMOps
-
-### Automated Testing for LLMOps
-
-### Advanced Retrieval for AI with Chroma 
-
-### Building and Evaluating Advanced RAG Applications
-
-### Understanding and Applying Text Embeddings
-
-### Vector Databases: from Embeddings to Applications
-
-### Using Diffusion Models for generating images
-
-### Large Language Models with Semantic Search
-
-### Finetuning Large Language Models
 
 
 
