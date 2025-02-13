@@ -71,14 +71,9 @@ Leveraged Support Vector Machines for Regression (SVR) and ensemble ML models in
 Self-led Project Experience:
 ======
 * MedQuery: Evidence-Based Clinical Decision Support: Developing a Retrieval-Augmented Generation (RAG)-based Clinical Decision Support Tool that retrieves evidence-based references from medical literature, guidelines, and case studies to assist clinicians in making informed decisions. Github
-* 
+
 * Building and Evaluating Advanced RAG applications: Improved the RAG pipeline using advanced retrieval techniques such as sentence-window retrieval and auto-merging retrieval. Adopted evaluation best practices, focusing on Context Relevance, Groundedness, and Answer Relevance to ensure robust and reliable outputs and RAGAS. Github				                     	
 
-
-
-
-
-* 
 
 <!--
 * 
