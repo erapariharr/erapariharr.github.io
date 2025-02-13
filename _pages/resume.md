@@ -23,12 +23,32 @@ Skills
 Work experience
 ======
 
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Data and AI Intern : United Nations - New York, USA
+Sept 2024 - Dec 2024
+  * Engineered and deployed a Retrieval-Augmented Generation (RAG) pipeline using Azure AI Services that dynamically generates comprehensive country reports with verifiable citations and hyperlinks based on user-specified parameters.
+  * Fine-tuned ClimateBERT on humanitarian aid datasets to achieve 85% accuracy in classifying climate-related documents and extracting critical insights for disaster response, enhancing emergency preparedness across UN member states.
 
-* Fall 2015: Research Assistant
+* Data Scientist - Marketing : Deriv Limited - Dubai, UAE 
+Apr 2021 - May 2022
+  * Engineered and deployed a Retrieval-Augmented Generation (RAG) pipeline using Azure AI Services that dynamically generates comprehensive country reports with verifiable citations and hyperlinks based on user-specified parameters.
+  * Fine-tuned ClimateBERT on humanitarian aid datasets to achieve 85% accuracy in classifying climate-related documents and extracting critical insights for disaster response, enhancing emergency preparedness across UN member states.
+ 
+* Data Scientist : SCS Enviro Services Pvt. Ltd - Jaipur, India
+Aug 2020 - Mar 2021
+  * Engineered and deployed a Retrieval-Augmented Generation (RAG) pipeline using Azure AI Services that dynamically generates comprehensive country reports with verifiable citations and hyperlinks based on user-specified parameters.
+  * Fine-tuned ClimateBERT on humanitarian aid datasets to achieve 85% accuracy in classifying climate-related documents and extracting critical insights for disaster response, enhancing emergency preparedness across UN member states.
+
+* Machine Learning Intern : Sentient Labs -  Dubai, UAE
+Aug 2020 - Mar 2021
+  * Modified the A* pathfinding algorithm for dynamic waterway conditions, enhancing robot efficiency in water body management.
+  * We Developed obstacle detection algorithms using CNNs, improving robotic navigation accuracy.
+  * Trained ML models with sensor data to identify maritime objects, boosting autonomous capabilities of water-cleaning robots.
+
+<!--
+* 
+
+
+* Data Scientist - Marketing : Deriv Limited - Dubai, UAE
   * GitHub University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -37,7 +57,9 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+  --->
   
+<!--
 Skills
 ======
 * Skill 1
@@ -46,25 +68,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+-->
   
-Talks
+Awards and Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The Commissionerate of College Education, Government of Rajasthan, India, awarded me the Swami Vivekananda Scholarship for Academic Excellence for the full duration of my master's degree. 
