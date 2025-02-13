@@ -1,4 +1,3 @@
-
 ---
 title: "Register Augmented LLM Fine-tuning"
 collection: projects
@@ -7,6 +6,7 @@ excerpt: "This project is part of coursework: EECS 598"
 slidesurl: "http://erapariharr.github.io/files/paper1.pdf"
 paperurl: "http://erapariharr.github.io/files/eecs598-llms-final-report.pdf"]
 ---
+
 
 ### Project Overview
 
