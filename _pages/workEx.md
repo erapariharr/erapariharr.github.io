@@ -11,6 +11,6 @@ I have over 2 years of professional experience applying AI/ML and Data Science t
 
 For an in-depth overview of my professional journey, continue reading below:
 
-{% for post in site.workEx reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% for post in site.workEx reversed %}{% include archive-single.html %}{% endfor %}
+
+
