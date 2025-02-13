@@ -44,6 +44,42 @@ Aug 2020 - Mar 2021
   * We Developed obstacle detection algorithms using CNNs, improving robotic navigation accuracy.
   * Trained ML models with sensor data to identify maritime objects, boosting autonomous capabilities of water-cleaning robots.
 
+Research Experience
+======
+* Summer Researcher : Carnegie Mellon University - Pittsburgh, PA
+May 2024 – July 2024
+  * ​​Analyzed the pretraining of large language models on text and speech pretraining tasks to identify the stage at which the model begins to learn from the task.
+  * We conducted experiments on speech recognition and multimodal tasks to enhance model performance under the guidance of Professor Bhiksha Raj.
+ 
+
+Academic Project Experience:
+======
+* **Register Augmented LLM Fine-Tuning (Oct - Dec 2024)**: Developed a register-augmented fine-tuning approach for LLMs, improving F1 and Exact Match scores on TyDiQA GoldP dataset. Conducted attention analysis using LRP and Integrated Gradients. GitHub | Report
+
+* **Question Generation System (Jan - Apr 2024)**: Utilizing the SQuAD v2.0 and Google’s Natural Questions dataset, to generate “good” quality questions using methodologies from pre-trained models: BART, T5. Evaluated our QG model using metrics such as RQUGE(2.6, 2.8), BLEU(0.06, 0.09) for translation quality, ROUGE(0.26, 0.33) for adequacy, and METEOR(0.23, 0.66) for the harmonic mean of precision and recall, and Bert Score(0.88, 0.85). GitHub | Report
+
+* **Jersey Number Recognition Using Joint Detection and Recognition (Jan - Apr 2024)**:
+Developed and fine-tuned a two-step method consisting of a detector for finding jersey numbers and a recognizer for identifying the numbers accurately. ​​Enhanced the accuracy of DBNet++ with SVTR-Small, improving accuracy to 83% when integrated with weighted rules. GitHub | Report
+
+* **Predictive Modeling for State Fragility Assessment: A Multi-Indicator Approach (Oct - Dec 2023)**:	                 
+Performed feature engineering and Used Random Forest Classifier for time-series analysis to detect changes in state fragility patterns over time. Utilized Principal Component Analysis for dimension reduction and ensures essential characteristics.
+Leveraged Support Vector Machines for Regression (SVR) and ensemble ML models including Random Forest, gradient-boosted trees, and decision trees to forecast 2024’s Fragile State Index (FSI) value. GitHub | Report
+
+* **Economic Influences on the News Dynamics Using Statistical Modeling (Oct - Dec 2023)**: Conducted advanced text processing, topic modeling (LDA), and correlation analysis to explore text patterns (2012-2018), quantify economic indicator impacts, and analyze news trends using time series analysis and visualizations. GitHub | Report
+
+
+Self-led Project Experience:
+======
+* MedQuery: Evidence-Based Clinical Decision Support: Developing a Retrieval-Augmented Generation (RAG)-based Clinical Decision Support Tool that retrieves evidence-based references from medical literature, guidelines, and case studies to assist clinicians in making informed decisions. Github
+* 
+* Building and Evaluating Advanced RAG applications: Improved the RAG pipeline using advanced retrieval techniques such as sentence-window retrieval and auto-merging retrieval. Adopted evaluation best practices, focusing on Context Relevance, Groundedness, and Answer Relevance to ensure robust and reliable outputs and RAGAS. Github				                     	
+
+
+
+
+
+* 
+
 <!--
 * 
 
