@@ -6,6 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi, I’m Era Parihar—a Data Scientist with a strong passion for addressing real-world problems through analytical thinking and machine learning solutions. I’m currently advancing my expertise at the University of Michigan, Ann Arbor, where I’m pursuing a Master’s in Data Science, proudly supported by a [merit-based scholarship awarded by the state of Rajasthan, India](https://hte.rajasthan.gov.in/dept/dce/uploads/doc/FAQofSVS.pdf). My journey into data science began with a solid grounding in Computer Science, earned through my undergraduate studies at Birla Institute of Technology and Science, Pilani.
+
+I’ve applied my skills across diverse domains, most recently during my internship at the United Nations, where I fine-tuned AI models to improve disaster response capabilities and enhance climate-related document classification. Additionally, I developed a retrieval-augmented generation (RAG) system using Azure AI to generate concise, citation-rich summaries from lengthy reports—making critical information more accessible to decision-makers.
+
+Earlier in my career, I designed predictive models and recommendation systems in the fintech and environmental sectors, boosting user engagement and supporting strategic ESG decisions. I enjoy blending technical depth with strategic impact, leveraging skills in Natural Language Processing, Deep Learning, and Statistical Analysis.
+
+My research at Carnegie Mellon University focused on the early learning stages of large language models, combining speech and text data using contrastive learning to push the boundaries of multimodal AI.
+
+With hands-on experience in Python, SQL, Tableau, and data visualization (both in professional and academic setting), I’m always exploring how data can drive insights, shape strategy, and inspire meaningful change.
+
+Let’s connect if you’re passionate about analytics, AI, or using data to create real-world impact.
+
+
+
+<!--
 
 Hello! I’m Era Parihar, a Data Scientist deeply passionate about solving real-world challenges through data-driven insights. Currently, I’m pursuing a Master’s in Data Science at the University of Michigan, Ann Arbor, supported by a prestigious scholarship from the state of Rajasthan. My academic foundation began with a Bachelor’s in Computer Science from Birla Institute of Technology and Science, Pilani.
 
@@ -13,7 +28,6 @@ I bring a diverse set of experiences, having contributed as a Data Scientist in 
 
 I also conducted cutting-edge research at Carnegie Mellon University, exploring the capabilities of Large Language Models in text and speech pretraining under the guidance of Dr. Bhiksha Raj. Beyond academics and professional engagements, I’m driven by a commitment to continuous learning and making meaningful contributions to the field of data science. Let’s connect and explore the possibilities together!
 
-<!--
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
