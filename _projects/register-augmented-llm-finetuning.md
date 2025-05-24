@@ -2,7 +2,7 @@
 title: "Register Augmented LLM Fine-tuning"
 collection: projects
 permalink: /projects/register-augmented-llm-finetuning
-excerpt: 'I worked on a course project for ECE 598 Special Topics - Large Language Models course at the University of Michigan.'
+excerpt: 'I worked on a course project for ECE 598 Special Topics - Large Language Models course at the University of Michigan during Fall 2024.'
 paperurl: 'http://erapariharr.github.io/files/paper1.pdf'
 slidesurl: 'http://erapariharr.github.io/files/eecs598-llms-final-report.pdf'
 ---
