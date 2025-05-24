@@ -1,5 +1,5 @@
 ---
-title: "Register Augmented LLM Fine-tuning"
+title: "A Computer Vision Framework for Dissolution Profiling of Microparticles in Artificial Mucus"
 collection: projects
 permalink: /projects/respirable-particles-detection
 excerpt: 'Worked on the DDL project in Summer 2024 at the Brunaugh Lab, where I developed a custom image analysis pipeline to track the dissolution of respirable drug particles using microscopy data.'
