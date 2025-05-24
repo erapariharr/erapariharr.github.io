@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I’m Era Parihar—a Data Scientist with a strong passion for addressing real-world problems through analytical thinking and machine learning solutions. I’m currently advancing my expertise at the University of Michigan, Ann Arbor, where I’m pursuing a Master’s in Data Science, proudly supported by a [merit-based scholarship awarded by the state of Rajasthan, India](https://hte.rajasthan.gov.in/dept/dce/uploads/doc/FAQofSVS.pdf). My journey into data science began with a solid grounding in Computer Science, earned through my undergraduate studies at Birla Institute of Technology and Science, Pilani.
+I'm a Data Scientist with a strong passion for addressing real-world problems through analytical thinking and machine learning solutions. I’m currently advancing my expertise at the University of Michigan, Ann Arbor, where I’m pursuing a Master’s in Data Science, proudly supported by a [merit-based scholarship awarded by the state of Rajasthan, India](https://hte.rajasthan.gov.in/dept/dce/uploads/doc/FAQofSVS.pdf). My journey into data science began with a solid grounding in Computer Science, earned through my undergraduate studies at Birla Institute of Technology and Science, Pilani.
 
 I’ve applied my skills across diverse domains, most recently during my internship at the United Nations, where I fine-tuned AI models to improve disaster response capabilities and enhance climate-related document classification. Additionally, I developed a retrieval-augmented generation (RAG) system using Azure AI to generate concise, citation-rich summaries from lengthy reports—making critical information more accessible to decision-makers.
 
