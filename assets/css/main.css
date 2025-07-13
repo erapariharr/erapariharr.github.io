@@ -1367,7 +1367,7 @@ section,
   overflow: hidden;
 }
 
-.chefs .team-member .member-img:after {
+/* .chefs .team-member .member-img:after {
   position: absolute;
   content: "";
   left: -1px;
@@ -1377,6 +1377,18 @@ section,
   background-color: var(--surface-color);
   mask: none !important;
   z-index: 1;
+} */
+
+.project-img {
+  width: 100%;
+  height: 180px; /* fixed height for all images */
+  object-fit: cover;
+  display: block;
+}
+
+.zoom-out {
+  object-fit: contain !important;  /* shows full image, adds padding if needed */
+  background-color: #fff;          /* optional: adds white background behind image */
 }
 
 .chefs .team-member .social {
