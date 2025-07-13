@@ -1,4 +1,4 @@
-Check out my portfolio [here](https://erapariharr.github.io/era_portfolio/)
+Check out my portfolio [here](https://erapariharr.github.io/)
 
 <!-- Thanks for downloading this template!
 
