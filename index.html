@@ -76,7 +76,7 @@
         <div class="row gy-4 justify-content-center justify-content-lg-between">
           <div class="col-lg-5 order-2 order-lg-1 d-flex flex-column justify-content-center">
             <h1 data-aos="fade-up">Hello ,<br>I am Era Parihar</h1>
-            <p data-aos="fade-up" data-aos-delay="100">A Data Scientist with focsu on ML, NLP, Statistics and LLMs</p>
+            <p data-aos="fade-up" data-aos-delay="100">A Data Scientist with focus on ML, NLP, Statistics and LLMs <a href="Era%20Parihar%20resume.pdf" target="_blank">check out my Resume here</a></p>
             <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
               <!-- Social Media Links -->
               <div class="social-links">
@@ -110,22 +110,27 @@
         <!-- <p><span>Learn More</span> <span class="description-title">About Us</span></p> -->
       </div><!-- End Section Title -->
 
-      <div class="container">
+      <div class="container" style="padding-bottom: 4rem;">
         <!-- oghreuovheove -->
-        <div class="row gy-4">
-          <div class="col-lg-7" data-aos="fade-up" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid mb-4" alt="">
+        <div class="row gy-4 align-items-stretch">
+          <div class="col-lg-6 d-flex" data-aos="fade-up" data-aos-delay="100">
+            <div class="w-100 d-flex align-items-center justify-content-center">
+              <img src="assets/img/about.jpg" class="img-fluid rounded" alt="" style="object-fit: contain; max-width: 60%; height: auto;">
+            </div>
+          </div>
+
+
+            <!-- <img src="assets/img/about.jpg" class="img-fluid mb-4 rounded" alt=""> -->
             <!-- <div class="book-a-table">
               <h3>Book a Table</h3>
               <p>+1 5589 55488 55</p>
             </div> -->
-          </div>
-          <div class="col-lg-5" data-aos="fade-up" data-aos-delay="250">
-            <div class="content ps-0 ps-lg-5">
+          <div class="col-lg-6 flex" data-aos="fade-up" data-aos-delay="250">
+            <div class="content ps-0 ps-lg-5 d-flex flex-column justify-content-center">
               <p>
                 Hello! I'm <strong>Era Parihar</strong>, a Data Scientist passionate about solving real-world problems through analytical reasoning and intelligent systems. 
-                Currently, I'm pursuing my Master’s in Data Science at the <strong>University of Michigan, Ann Arbor</strong>, where I’m honored to be a recipient of a 
-                <strong>merit-based scholarship</strong> awarded by the <strong>state of Rajasthan, India</strong>.
+                 I recently completed my Master’s in Data Science at the <strong>University of Michigan, Ann Arbor</strong>, where I was recognized with a <strong>merit-based scholarship</strong> 
+                 from the <strong>state of Rajasthan, India</strong>, and had the honor of being  <strong>chosen to speak on behalf of my graduating class</strong> at our <strong>commencement ceremony inMay 2025 </strong>
               </p>
 
               <p>
@@ -407,6 +412,30 @@
           <div class="col-lg-4 d-flex">
             <div class="team-member h-20">
               <div class="member-img">
+                <img src="assets/img/chefs/med.jpg" class="project-img zoom-out" alt="">
+                <!-- class="img-fluid w-50" -->
+                <!-- idhar dal image -->
+              </div>
+              <div class="member-info">
+                <h4>Register-Augmented LLM Finetuning</h4>
+                <!-- <span>Master Chef</span> -->
+                <p>Developed a complete RAG pipeline: retrieved articles from PubMed using NCBI E-utilities, embedded abstracts with sentence transformers, indexed them using FAISS, and generated chain-of-thought explanations with open-source language models.</p>
+                <p>Enabled explainable, verifiable answers by linking every claim to source articles — bridging the gap between LLMs and evidence-based medicine.</p>
+                <p>Tools: Python, Streamlit, Hugging Face Transformers, SentenceTransformers, FAISS, PubMed API, Torch</p>
+                <p>*currently working on deployemnt for easy accessibility</p>
+                <!-- Add links here -->
+                <div class="mt-2">
+                  <a href="https://github.com/erapariharr/medquery-rag" target="_blank" class="btn btn-outline-dark btn-sm me-2">
+                    <i class="fab fa-github"></i> GitHub ->
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 d-flex">
+            <div class="team-member h-20">
+              <div class="member-img">
                 <img src="assets/img/chefs/Register_Finetuning.jpg" class="project-img zoom-out" alt="">
                 <!-- class="img-fluid w-50" -->
                 <!-- idhar dal image -->
@@ -460,9 +489,10 @@
                 <h4>Ann Arbor Water Production Forecasting</h4>
                 <h6 class="text-muted">Using Voting Regressor for Time-Series Prediction</h6>
                 <!-- <span>Master Chef</span> -->
-                <p>In response to growing sustainability concerns, this project aims to predict daily water production in Ann Arbor using historical data from 2014 to 2021. The city’s water consumption shows strong seasonal trends—peaking during hot, dry summers due to increased activities like lawn sprinkling and dipping during rainy spells.</p>
-                <p>By forecasting water demand for 2022 and 2023, this model supports urban water management, helping optimize resource allocation and infrastructure planning.</p>
-
+                <p>Built a predictive model to forecast daily water production in Ann Arbor based on 8 years of weather and usage data. Engineered temporal features and environmental indicators to capture seasonal demand fluctuations driven by rainfall and temperature.</p>
+                <p>Implemented and benchmarked multiple regression models — including Random Forest, Gradient Boosting, and Ridge and combined them using a Voting Regressor for improved accuracy and stability.</p>
+                <p>Enabled data-driven water resource planning by predicting future demand and reconstructing sensor gaps, supporting the city’s sustainability goals.</p>
+                <p>Tools: Python, Scikit-learn, Voting Regressor, Pandas, Matplotlib, NumPy</p>
                 <!-- Add links here -->
                 <div class="mt-2">
                   <a href="https://github.com/erapariharr/Ann-Arbor-water-prediction-using-Voting-regressor/tree/main" target="_blank" class="btn btn-outline-dark btn-sm me-2">
@@ -494,6 +524,33 @@
                 <!-- Add links here -->
                 <div class="mt-2">
                   <a href="https://github.com/erapariharr/Lake_Trout-s_temperature_prediction" target="_blank" class="btn btn-outline-dark btn-sm me-2">
+                    <i class="fab fa-github"></i> GitHub ->
+                  </a>
+                  <!-- <a href="assets/Answer-aware-question-generation.pdf" target="_blank" class="btn btn-outline-primary btn-sm">
+                    <i class="bi bi-file-earmark-text"></i> Read Paper ->
+                  </a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 d-flex">
+            <div class="team-member h-20">
+              <div class="member-img">
+                <img src="assets/img/chefs/trout-lake.jpg" class="project-img" alt="">
+              </div>
+              <div class="member-info">
+                <h4>PotholeSense</h4>
+                <h6 class="text-muted">Predicting Pothole Severity in Chicago Using LightGBM for Smart Infrastructure Maintenance</h6>
+                <!-- <span>Master Chef</span> -->
+                <p>Built a supervised machine learning pipeline using LightGBM to classify pothole severity across Chicago, utilizing 311 service request data, traffic volume, and road condition features. The model achieved 92% precision and 88% recall in identifying high-risk potholes, enabling data-driven prioritization of repair work</p>
+                <p>Engineered predictive features including response lag, weather-seasonality, and zip-code-based clustering. Applied robust preprocessing—missing value imputation, label encoding, and outlier handling to prepare the data for training.</p>
+                <p>Benchmarked LightGBM against Decision Trees, Random Forests, and XGBoost using stratified cross-validation and grid search. LightGBM consistently delivered the best performance with low inference time.</p>
+                <p>Tools Stack: Python, LightGBM, Scikit-learn, XGBoost, Decision Trees, Random Forests, Feature Engineering, Hyperparameter Tuning, Cross-validation, Pandas, Geopandas, Matplotlib, Seabornb</p>
+
+                <!-- Add links here -->
+                <div class="mt-2">
+                  <a href="https://github.com/erapariharr/pothole-prediction-in-Chicago" target="_blank" class="btn btn-outline-dark btn-sm me-2">
                     <i class="fab fa-github"></i> GitHub ->
                   </a>
                   <!-- <a href="assets/Answer-aware-question-generation.pdf" target="_blank" class="btn btn-outline-primary btn-sm">
